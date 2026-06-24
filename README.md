@@ -47,7 +47,7 @@ Linear Regression
 ### Visualization
 Actual vs Predicted House Prices Scatter Plot
 
-
+![Actual vs Predicted House Prices](graph.png)
 
 ### Learning Outcomes
 Through this project, I learned:
